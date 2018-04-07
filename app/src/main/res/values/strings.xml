@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">werewolfGame</string>
+    <string name="buttonText">开始随机身份</string>
+    <string name="playerNumber">玩家人数</string>
+    <string name="addS">增加身份</string>
+</resources>
